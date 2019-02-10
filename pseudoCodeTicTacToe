@@ -1,0 +1,17 @@
+loop 
+{
+	print board
+
+	print("Enter Row: ")
+	int row
+
+	print("Enter Col: ")
+	int col
+
+	if (array index out of bounds, may laman na yung board, not int yung input)
+	continue;
+
+	if (winner) {
+		print()
+	}
+}
